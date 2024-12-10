@@ -1,0 +1,46 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hey",
+                "Hello",
+                "Good morning",
+                "Good evening"
+            ],
+            "responses": [
+                "Hello! How can I help you today?",
+                "Hi there! What would you like to discuss?",
+                "Hey! I'm here to help. What's on your mind?"
+            ]
+        },
+        {
+            "tag": "nlp_info",
+            "patterns": [
+                "What is NLP",
+                "Tell me about Natural Language Processing",
+                "How does NLP work",
+                "Explain NLP"
+            ],
+            "responses": [
+                "Natural Language Processing (NLP) is a branch of AI that helps computers understand and process human language.",
+                "NLP combines linguistics and machine learning to help computers interact with human language naturally.",
+                "NLP technology enables computers to understand, interpret, and generate human language in useful ways."
+            ]
+        },
+        {
+            "tag": "capabilities",
+            "patterns": [
+                "What can you do",
+                "Help me",
+                "What are your features",
+                "How can you help"
+            ],
+            "responses": [
+                "I can help with:\n- Understanding natural language\n- Answering questions\n- Processing text\n- Sentiment analysis",
+                "My capabilities include:\n- Natural conversations\n- Information retrieval\n- Text analysis\n- Language understanding"
+            ]
+        }
+    ]
+} 

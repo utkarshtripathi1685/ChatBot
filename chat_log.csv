@@ -1,0 +1,44 @@
+Timestamp,User Input,Bot Response,Question Type,Career Field
+2024-12-07 13:29:49,hello,Hi there! What would you like to talk about?,greetings,none
+2024-12-07 13:30:00,what can you do for me,"I can help you with:
+1. General conversation and questions
+2. Understanding your sentiment
+3. Processing natural language
+4. Learning from our interactions
+5. Providing relevant information
+
+Feel free to ask me anything!",capabilities,none
+2024-12-07 13:31:33,What can you do?,"I can help you with:
+1. General conversation and questions
+2. Understanding your sentiment
+3. Processing natural language
+4. Learning from our interactions
+5. Providing relevant information
+
+Feel free to ask me anything!",capabilities,none
+2024-12-07 13:31:35,Tell me about NLP,I see you're asking about nlp. Could you be more specific about what you'd like to know?,conversation,none
+2024-12-07 13:31:40,How do you process language?,I see you're asking about language. Could you be more specific about what you'd like to know?,conversation,none
+2024-12-07 13:31:42,Give me an example,I understand you're looking for an example. Could you specify the topic or concept you'd like an example of?,conversation,none
+2024-12-07 13:31:52,fruits,I understand you're asking about something. Could you be more specific?,conversation,none
+2024-12-07 13:37:36,Tell me about NLP,I see you're asking about nlp. Could you be more specific about what you'd like to know?,conversation,none
+2024-12-07 13:38:02,How do you process language?,I see you're asking about language. Could you be more specific about what you'd like to know?,conversation,none
+2024-12-07 13:38:03,What can you do?,"I can help you with:
+1. General conversation and questions
+2. Understanding your sentiment
+3. Processing natural language
+4. Learning from our interactions
+5. Providing relevant information
+
+Feel free to ask me anything!",capabilities,none
+2024-12-09 13:44:35,hey,Hi there! What would you like to talk about?,greetings,none
+2024-12-09 13:52:23,hey,Hey! I'm here to help. What's on your mind?,greetings,none
+2024-12-09 14:17:16,hi,Hey! I'm here to help. What's on your mind?,greetings,none
+2024-12-09 14:17:42,What can you do?,"I can help you with:
+1. General conversation and questions
+2. Understanding your sentiment
+3. Processing natural language
+4. Learning from our interactions
+5. Providing relevant information
+
+Feel free to ask me anything!",capabilities,none
+2024-12-09 14:17:57,Tell me about NLP,I see you're asking about nlp. Could you be more specific about what you'd like to know?,conversation,none

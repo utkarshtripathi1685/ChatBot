@@ -1,0 +1,36 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - ask_nlp
+  - ask_capabilities
+  - ask_example
+  - thank
+
+responses:
+  utter_greet:
+    - text: "Hello! How can I help you today?"
+    - text: "Hi there! What would you like to discuss?"
+
+  utter_goodbye:
+    - text: "Goodbye! Have a great day!"
+    - text: "Bye! Feel free to come back anytime!"
+
+  utter_nlp_info:
+    - text: "Natural Language Processing (NLP) is a branch of AI that helps computers understand human language."
+    - text: "NLP combines linguistics and machine learning to enable natural human-computer interaction."
+
+  utter_capabilities:
+    - text: "I can help you with:\n- Understanding natural language\n- Answering questions\n- Processing text\n- Sentiment analysis"
+
+  utter_example:
+    - text: "Here's an example of NLP: I can understand that 'Hello' and 'Hi' mean the same thing!"
+
+  utter_thanks:
+    - text: "You're welcome!"
+    - text: "Happy to help!"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
