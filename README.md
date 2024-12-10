@@ -16,7 +16,7 @@ An intelligent chatbot powered by Natural Language Processing (NLP) that can und
 
 1. Clone the repository:
 ```bash
-git clone https://
+git clone https://github.com/utkarshtripathi1685/ChatBot.git
 ```
 
 2. Install dependencies:
